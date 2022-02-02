@@ -4,5 +4,7 @@
 
 
 cd {/...folder location}
+
 npm i
+
 npm start
